@@ -34,7 +34,7 @@ MedVice, tahlil sonuçlarını analiz eden ve sağlık danışmanlığı sağlay
 
 1. **Projeyi klonlayın**
 ```bash
-git clone <repository-url>
+git clone https://github.com/enestsc/medvice-deploy.git
 cd medvice
 ```
 
@@ -148,16 +148,6 @@ VITE_LOG_USER_INTERACTIONS=false
 3. Commit yapın (`git commit -m 'Add amazing feature'`)
 4. Push yapın (`git push origin feature/amazing-feature`)
 5. Pull Request oluşturun
-
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır.
-
-## Destek
-
-Sorularınız için:
-- GitHub Issues: [Repository Issues]
-- Email: support@medvice.com
 
 ---
 
